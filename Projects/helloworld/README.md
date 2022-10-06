@@ -1,3 +1,4 @@
+Before you start the project you need to check the installation process.
 # Step1:
 # Getting Started with Create React App
 
